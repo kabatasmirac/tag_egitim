@@ -13,6 +13,4 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 
-
-miraccccc
-selman gokmen
+klnsdkvnkdl vmdn wljb n 
