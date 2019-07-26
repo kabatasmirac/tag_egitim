@@ -11,3 +11,7 @@ for (x,y,w,h) in bodies:
 cv2.imshow('body',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+
+
+miraccccc
