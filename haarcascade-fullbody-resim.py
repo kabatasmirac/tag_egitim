@@ -14,3 +14,6 @@ cv2.destroyAllWindows()
 
 
 klnsdkvnkdl vmdn wljb n 
+
+
+dölcmdslşvcmlsdşmvlşsdmvlşd
